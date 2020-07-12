@@ -4,12 +4,6 @@
 * [Technologies](#Technologies)
 * [Setup](#Setup)
 
-
-
-
-
-
-
 ## General Info
 CMSC-255-901-Final-Project
 March 2020 - April 2020
